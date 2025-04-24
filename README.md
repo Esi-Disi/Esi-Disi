@@ -75,8 +75,8 @@ Control your system like a Jedi master using nothing but gestures.
 
 ### 📡 Find Me in the Outer Rim
 
-- 🧑‍🚀 **GitHub**: [@yourusername](https://github.com/yourusername)
-- 📸 **Portfolio**: [Link to your site]
+- 🧑‍🚀 **GitHub**: [@Esi-Disi](https://github.com/Esi-Disi)
+- 📸 **Mail**: [ayushkashyap0804@outlook.com]
 - 🌌 **Always learning, always leveling up**
 
 ---

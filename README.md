@@ -76,14 +76,16 @@ Control your system like a Jedi master using nothing but gestures.
 ### 📡 Find Me in the Outer Rim
 
 - 🧑‍🚀 **GitHub**: [@Esi-Disi](https://github.com/Esi-Disi)
-- 📸 **Mail**: [ayushkashyap0804@outlook.com]
+- 📸 **Mail**: ayushkashyap0804@outlook.com
 - 🌌 **Always learning, always leveling up**
 
 ---
 
-<p align="center">
-  <img src="https://ascii.co.uk/_img/starwars/3.png" alt="Yoda ASCII" />
-</p>
+   ______________________________________________________________________
+  |:..                                                      ``:::%%%%%%HH|
+  |%%%:::::..                S t a r s h i p s                 `:::::%%%%|
+  |HH%%%%%:::::....._______________________________________________::::::|
+
 
 <p align="center">
   <em>"Do or do not. There is no try... unless you're debugging."</em>

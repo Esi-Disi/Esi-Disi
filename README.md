@@ -25,7 +25,7 @@
 
 
 <p align="center">
-  <em>"Do or do not. There is no try... unless you're debugging."</em>
+  <em>"Do or do not. There is no try..."</em>
 </p>
 
 
